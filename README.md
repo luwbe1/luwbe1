@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-💻 Usually studying Python and Java for programmming<br>
+💻 Usually studying Typescript and Python for programmming<br>
 👩🏻‍🏫 try to study continuously
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luwbe1&show_icons=true&theme=radical)
 
 <h1>📚 STACKS</h1></div>
 <div align=center-left> 
