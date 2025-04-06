@@ -13,4 +13,4 @@
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black ">
 
-![luwbe1's GitHub stats](https://github-readme-stats.vercel.app/api?username=luwbe1&show_icons=true&theme=radical)
+
