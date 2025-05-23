@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 💻 I'm a web developer with 3 years of experience, mainly working with TypeScript, JavaScript and Vue.js.<br>
-🚀 Passionate about building clean, user-focused applications and writing maintainable code.
+🚀 Passionate about building clean, user-focused applications and writing maintainable code. <br>
 📚 Always learning and growing — currently diving deeper into frontend architecture and scalable systems.
 
 <h1>📚 STACKS</h1></div>
