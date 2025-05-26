@@ -3,6 +3,7 @@
 💻 I'm a web developer with 3 years of experience, mainly working with TypeScript, JavaScript and Vue.js.<br>
 🚀 Passionate about building clean, user-focused applications and writing maintainable code. <br>
 📚 Always learning and growing — currently diving deeper into frontend architecture and scalable systems.
+💼 [View my resume](https://yubin-kim-portfolio.notion.site/1f753dea1898807bbeabeb918ab11201)  
 
 <h1>📚 STACKS</h1></div>
 <div align=center-left> 
